@@ -786,7 +786,7 @@ img.advisoricons{
   margin-left: -5px;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
-  border-top: 5px solid #4299CE;
+  border-top: 5px solid #219901;
 }
 .popover.right .arrow {
   top: 50%;
@@ -794,7 +794,7 @@ img.advisoricons{
   margin-top: -5px;
   border-top: 5px solid transparent;
   border-bottom: 5px solid transparent;
-  border-right: 5px solid #4299CE;
+  border-right: 5px solid #219901;
 }
 .popover.bottom .arrow {
   top: 0;
@@ -802,7 +802,7 @@ img.advisoricons{
   margin-left: -5px;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
-  border-bottom: 5px solid #4299CE;
+  border-bottom: 5px solid #219901;
 }
 .popover.left .arrow {
   top: 50%;
@@ -810,7 +810,7 @@ img.advisoricons{
   margin-top: -5px;
   border-top: 5px solid transparent;
   border-bottom: 5px solid transparent;
-  border-left: 5px solid #4299CE;
+  border-left: 5px solid #219901;
 }
 .popover .arrow {
   position: absolute;
@@ -822,8 +822,7 @@ img.advisoricons{
   padding: 3px;
   width: 280px;
   overflow: hidden;
-  background: #4299CE;
-  background: rgba(66, 153, 206, 1);
+  background: #219901;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
@@ -832,7 +831,7 @@ img.advisoricons{
   box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
 }
 .popover-title {
-  color: #C91F3D;
+  color: #da2626;
   font-size: 20px;
   padding: 9px 15px 0px 15px;
   line-height: 1;
@@ -895,7 +894,7 @@ img.advisoricons{
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
 }
 a.thumbnail:hover {
-  border-color: #0088cc;
+  border-color: #219901;
   -webkit-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
   -moz-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
   box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
