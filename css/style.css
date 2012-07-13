@@ -106,9 +106,9 @@ ul{
 	line-height:75px;
 	color:#fff;
 	font-family: 'Alfa Slab One', cursive;
-	text-shadow:8px 7px 8px #97172e;
-	-moz-text-shadow:8px 7px 8px #97172e;
-	-webkit-text-shadow:8px 7px 8px #97172e;
+	text-shadow:8px 7px 8px #6b1111;
+	-moz-text-shadow:8px 7px 8px #6b1111;
+	-webkit-text-shadow:8px 7px 8px #6b1111;
 }
 
 .cufon{	
@@ -320,7 +320,7 @@ ul{
 	float:left;
 	width:305px;
 	height:63px;
-	color:#63c6d3;
+	color:#478e34;
 	border-bottom:1px solid #afafb2;	
 }
 
@@ -337,7 +337,7 @@ ul{
 	width:305px;
 	height:52px;
 	text-align:right;
-	color:#55c2d0;
+	color:#478e34;
 	font-size:16px;	
 	border-top:1px solid #afafb2;
 	padding-top:10px;
@@ -345,7 +345,7 @@ ul{
 
 .redAm{
 	font-size:20px;
-	color:#d40949;
+	color:#da2626;
 }
 
 .bottom_art_cont{
