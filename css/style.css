@@ -9,7 +9,7 @@ body{
 
 a {
 	text-decoration: none;
-	color: #4299CE;
+	color: #478e34;
 	font-weight: bold;
 }
 
@@ -28,7 +28,7 @@ h1{
 
 h2{
 	font-size:28px;
-	color:#4299ce;
+	color:#478e34;
 	font-weight:700;	
 }
 
@@ -140,18 +140,18 @@ ul{
 	margin-right:4px;
 	background: -moz-linear-gradient(
 		top,
-		#2fa3eb 0%,
-		#66a7ed 25%,
-		#0284db);
+		#39c214 0%,
+		#2fb80a 25%,
+		#1c8001);
 	background: -webkit-gradient(
 		linear, left top, left bottom, 
-		from(#2fa3eb),
-		color-stop(0.25, #66a7ed),
-		to(#0284db));
+		from(#39c214),
+		color-stop(0.25, #2fb80a),
+		to(#1c8001));
 	border-radius: 6px;
 	-moz-border-radius: 6px;
 	-webkit-border-radius: 6px;
-	border: 1px solid #0284db;
+	border: 1px solid #17b90c;
 	-moz-box-shadow:
 		0px 3px 11px rgba(000,000,000,0.5),
 		inset 0px 0px 1px rgba(2,132,219,1);
@@ -179,18 +179,18 @@ ul{
 	margin-right:4px;
 	background: -moz-linear-gradient(
 		top,
-		#0284db 0%,
-		#66a7ed 25%,
-		#2fa3eb);
+		#1c8001 0%,
+		#2fb80a 25%,
+		#39c214);
 	background: -webkit-gradient(
 		linear, left top, left bottom, 
-		from(#0284db),
-		color-stop(0.25, #66a7ed),
-		to(#2fa3eb));
+		from(#1c8001),
+		color-stop(0.25, #2fb80a),
+		to(#39c214));
 	border-radius: 6px;
 	-moz-border-radius: 6px;
 	-webkit-border-radius: 6px;
-	border: 1px solid #2fa3eb;
+	border: 1px solid #17b90c;
 	-moz-box-shadow:
 		0px 3px 11px rgba(000,000,000,0.5),
 		inset 0px 0px 1px rgba(2,132,219,1);
