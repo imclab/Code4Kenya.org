@@ -494,7 +494,7 @@ img.advisoricons{
 }
 
 #sponsors{
-	padding: 30px 10px 75px 10px;
+	padding: 30px 10px 0px 10px;
 }
 
 #footer_cont{
@@ -1354,3 +1354,30 @@ line-height: 66px;
 #information {
 	overflow: hidden;
 }
+
+#share a{
+	width: 253px;
+	margin-left: 10px;
+	margin-right:10px;
+	padding: 15px 20px 10px;
+	border: none;
+}
+	#share a:hover;{
+		width: 253px;
+		margin-left: 10px;
+		margin-right:10px;
+		padding: 17px 20px 8px;
+		border: none;
+	}
+		.fb{
+			background: rgba(59, 89, 152, 1.0);
+		}
+		.fb:hover{
+			background: rgba(59, 89, 152, 0.7);
+		}
+		.twitter{
+			background: rgba(0, 172, 237, 1.0);
+		}
+		.twitter:hover{
+			background: rgba(0, 172, 237, 0.7);
+		}
