@@ -124,7 +124,7 @@ form.signup input.form-control:focus {
 #wrapper {
 	text-align: center;
 	padding: 50px 0;
-	background: url(../img/main-bg.jpg) no-repeat center top;
+	background: url(../img/main-bg2.jpg) no-repeat center top;
 	background-attachment: relative;
 	background-position: center center;
 	min-height: 650px;
@@ -145,14 +145,14 @@ form.signup input.form-control:focus {
 #wrapper h1 {
 	margin-top: 60px;
 	margin-bottom: 40px;
-	color: #fff;
+	color: #4A3A3A;
 	font-size: 45px;
 	font-weight: 900;
 	letter-spacing: -1px;
 }
 
 h2.subtitle {
-	color: #fff;
+	color: #4A3A3A;
 	font-size: 24px;
     margin-bottom: 50px;
 }
@@ -169,7 +169,7 @@ h2.subtitle {
 /* footer */
 p.copyright {
 	margin-top: 50px;
-	color: #fff;
+	color: #4A3A3A;
 	text-align: center;
 }
 .logo img{
