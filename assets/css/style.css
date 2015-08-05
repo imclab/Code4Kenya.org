@@ -154,6 +154,7 @@ form.signup input.form-control:focus {
 h2.subtitle {
 	color: #fff;
 	font-size: 24px;
+    margin-bottom: 50px;
 }
 
 /* countdown */
@@ -170,4 +171,11 @@ p.copyright {
 	margin-top: 50px;
 	color: #fff;
 	text-align: center;
-}	
+}
+.logo img{
+    text-align: center;
+    height: 150px;
+}
+.footer{
+    margin-top: 100px;
+}
