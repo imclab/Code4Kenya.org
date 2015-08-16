@@ -1,0 +1,14 @@
+# Site settings
+title: Code for Kenya
+sub_title: Kenya's largest data journalism initiative.
+email: hello@code4kenya.org
+description: > # this means to ignore newlines until "baseurl:"
+  Kenya's largest data journalism initiative.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://code4kenya.org" # the base hostname & protocol for your site
+twitter_username: Code4Kenya
+github_username:  CodeForKenya
+google_analytics: UA-33350783-1
+
+# Build settings
+markdown: kramdown
